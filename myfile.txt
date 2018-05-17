@@ -1,0 +1,5 @@
+Name:Boris Occupation:Tailor Age:22
+Name:Dolly Occupation:Soldier Age:27
+Name:Amanda Occupation:Firefighter Age:84
+Name:Bob Occupation:Tinkerer Age:46
+Name:Ross Occupation:Spy Age:64
